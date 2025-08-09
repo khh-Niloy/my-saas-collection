@@ -1,8 +1,31 @@
-# Career Copilot
+![In Progress](https://img.shields.io/badge/In%20Progress-orange?style=flat)
 
-**AI-Powered Job Application Assistant**
+# 💶 Loan and Expense Tracker
+
+## Overview
+
+...
+
+<details>
+<summary>more will come</summary>
+</details>
+
+
+
+
+
+<!-- ____________________________________ -->
+
+
+
 
 ---
+---
+---
+
+![Planning](https://img.shields.io/badge/Planning-blue?style=flat)
+
+# 💼 Career Copilot - AI-Powered Job Application Assistant
 
 ## Overview
 
@@ -10,7 +33,8 @@ Career Copilot is an intelligent platform designed to simplify and automate the 
 
 This project follows a **microservices architecture**, with separate frontend and backend services communicating to deliver a smooth and scalable experience.
 
----
+<details>
+<summary>📂 Click to open full details — Features, Stack & More</summary>
 
 ## Features
 
@@ -29,21 +53,21 @@ This project follows a **microservices architecture**, with separate frontend an
 - **Backend:** Node.js, Express.js, TypeScript, MongoDB, Mongoose, Zod for schema validation
 - **Authentication:** JWT, bcrypt
 - **AI Integration:** Gemini API for generating email bodies and resume suggestions
+
 ---
----
+
 # 🚀 Career Copilot - Frontend
 
 🔗 **GitHub Link:** [Frontend Repository](https://github.com/khh-Niloy/career-copilot)  
 <!-- 🌐 **Live Site:** [career-copilot-frontend.vercel.app](https://career-copilot-frontend.vercel.app) -->
 
----
+
 
 # 🛠️ Career Copilot - Backend
 
 🔗 **GitHub Link:** [Backend Repository](https://github.com/khh-Niloy/career-copilot-backend)  
 <!-- 🌐 **Hosted API:** `soon` -->
 
----
 
 # 🧩 Microservices
 
@@ -55,4 +79,4 @@ This project follows a **microservices architecture**, with separate frontend an
 📌 **Endpoint:** `POST /extract`  
 📃 **Purpose:** Extracts text and clickable links from uploaded resumes in PDF format.
 
-
+</details>
