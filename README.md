@@ -1,3 +1,4 @@
+<!--
 ![In Progress](https://img.shields.io/badge/In%20Progress-orange?style=flat)
 
 # 💶 Loan and Expense Tracker
@@ -16,14 +17,7 @@
 
 <!-- ____________________________________ -->
 
-
-
-
----
----
----
-
-![Planning](https://img.shields.io/badge/Planning-blue?style=flat)
+![Ongoing](https://img.shields.io/badge/Ongoing-brightgreen?style=flat)
 
 # 💼 Career Copilot - AI-Powered Job Application Assistant
 
@@ -38,12 +32,11 @@ This project follows a **microservices architecture**, with separate frontend an
 
 ## Features
 
-- **Resume Builder & Editor:** Easily create, update your resume.
-- **Job Application Tracking:** Keep track of applied jobs, statuses, and next steps.
-- **AI-Generated Email Templates:** Automatically generate personalized and professional email bodies for job applications and follow-ups.
-- **User Authentication:** Secure signup/login with JWT-based authentication.
-- **Microservices Architecture:** Backend APIs and frontend UI are separated for scalability and maintainability.
-- **Modern Tech Stack:** Built using NextJs, TypeScript, Node.js, Express, MongoDB, and Gemini API integration.
+- AI Career Avatar
+- AI Video Interview
+- One-click Apply with Email + ATS Optimization
+- Skill-based Course Recommendations
+- Project Suggestions
 
 ---
 
